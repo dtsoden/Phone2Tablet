@@ -2,6 +2,6 @@
 <PhoneToTablet>
    <DocumentLayoutWidth>1366.0</DocumentLayoutWidth>
    <DocumentLayoutHeight>768.0</DocumentLayoutHeight>
-   <DocumentLayoutOrientation>landscape</DocumentLayoutOrientation>
-   <DocumentAppType>DesktopOrTablet</DocumentAppType>
+   <DocumentLayoutOrientation>landscape</DocumentLayoutOrientation> 
+   <DocumentAppType>DesktopOrTablet</DocumentAppType>  
 </PhoneToTablet>

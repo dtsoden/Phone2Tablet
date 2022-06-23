@@ -871,12 +871,12 @@
         </member>
         <member name="F:MaterialDesignThemes.Wpf.Transitions.Transitioner.MoveNextCommand">
             <summary>
-            Causes the the next slide to be displayed (affectively increments <see cref="P:System.Windows.Controls.Primitives.Selector.SelectedIndex"/>).
+            Causes the the next slide to be displayed (affectively increments <see cref="!:SelectedIndex"/>).
             </summary>
         </member>
         <member name="F:MaterialDesignThemes.Wpf.Transitions.Transitioner.MovePreviousCommand">
             <summary>
-            Causes the the previous slide to be displayed (affectively decrements <see cref="P:System.Windows.Controls.Primitives.Selector.SelectedIndex"/>).
+            Causes the the previous slide to be displayed (affectively decrements <see cref="!:SelectedIndex"/>).
             </summary>
         </member>
         <member name="F:MaterialDesignThemes.Wpf.Transitions.Transitioner.MoveFirstCommand">
